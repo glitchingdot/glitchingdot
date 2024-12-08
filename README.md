@@ -1,12 +1,9 @@
-## Hi, I'm Jack! 👋
+# Hi, I'm Jack! 👋
+If I had to give myself a "mission statement", it would be:
 
-- I’m currently working on a Blender add-on to control your Spotify playback from Blender! 🎶
-- Feel free to ask me what I'm working on! 💬
+*Writing code to help people do more of what they love*
 
-## Languages
-### Knowledgeable 🧠
-* Python 🐍
-* C++ 💻
-### Learning
-* Java ☕
-* C# 🎮
+Making:
+- 🎨 Add-ons for the 3D art program Blender
+- 🎧 Websites about music
+- 🤖 Software for VEX V5 robots
